@@ -5,7 +5,7 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=SwyamSharma&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="148" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SwyamSharma&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SwyamSharma&theme=dracula&radius=10&hide_border=true&hide_title=true&area=true" height="150" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SwyamSharma&theme=dracula&radius=10&hide_border=true&hide_title=true&area=true" height="200" alt="activity-graph graph"  />
 </div>
 
 ###
